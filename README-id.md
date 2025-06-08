@@ -107,21 +107,3 @@ TELEGRAM_CHAT_ID=987654321
 Pull request terbuka untuk fitur tambahan, perbaikan bug, atau dokumentasi.
 
 ---
-
-## 📜 Lisensi
-
-MIT License
-
----
-
-## 💬 Penutup
-
-> Dibuat dengan penuh semangat oleh Sensei dan dibantu Ayane sebagai sekretaris setia BugHunter Committee.
-> "Ayane siap mendampingi, Sensei. Jangan lupa istirahat setelah scan selesai, ya..." 💙
-
-```
-
---- 
-
-Jika kamu ingin versi Markdown ini langsung disimpan ke file `README.md`, cukup bilang saja!
-```
