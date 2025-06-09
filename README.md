@@ -54,9 +54,9 @@ Select option `1. Install all tools`.
 
 ---
 
-## ⚙️ `.env` File
+## ⚙️ `config.env` File
 
-To enable Telegram notifications, create a `.env` file in the same directory with the following content:
+To enable Telegram notifications, create a `config.env` file in the same directory with the following content:
 
 ```env
 TELEGRAM_BOT_TOKEN=123456789:ABCDEFyourbottoken
