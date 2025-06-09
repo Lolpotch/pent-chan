@@ -1,6 +1,11 @@
 #!/bin/bash
 
-source ./config.env
+if [[ -f .env ]]; then
+  source .env
+else
+  echo "[!] File .env tidak ditemukan. Notifikasi Telegram tidak aktif."
+fi
+
 source ./modules/utils.sh
 
 show_menu() {
