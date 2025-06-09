@@ -12,7 +12,7 @@ echo "
 
 
 if [[ -f .env ]]; then
-  source .env
+  source config.env
 else
   echo "[!] File .env tidak ditemukan. Notifikasi Telegram tidak aktif."
 fi
